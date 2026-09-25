@@ -1,0 +1,53 @@
+{
+  "main": "outliers-diagrams",
+  "main_commit": "ca1e42e569d6372279f3631c663974256f0503bc",
+  "mac": "outliers-diagrams-mac",
+  "macgen_commit": "9c2578fc+uncommitted",
+  "date": "2026-09-25",
+  "fingerprint": "97700b371037e54555479c4c7d6a9b35b7484b7147be9924a406c855217696e8",
+  "left_out_of_fingerprint": [
+    ".mac-version.json"
+  ],
+  "files": [
+    {
+      "path": "README.md",
+      "category": "changed",
+      "sha256": "29d20d4227645e8e24e2dd978c454810db413c003b967cc248f9c92f30e54d69"
+    },
+    {
+      "path": "labs/README.md",
+      "category": "changed",
+      "sha256": "c2a6971b5db9130fc25866f8582c75b83d8c1519716b6a05741c2278167d4d99"
+    },
+    {
+      "path": "labs/colour_measure.py",
+      "category": "same",
+      "sha256": "10fab942f7407a6510d11092050090c88826c9c5d1fc784db5888028c29221f0"
+    },
+    {
+      "path": "labs/example-slides.json",
+      "category": "same",
+      "sha256": "100753dfbf539848f6a9115c8778e7b66c0774e5d6d6474a3fe54ebb0e523077"
+    },
+    {
+      "path": "labs/phone_width.py",
+      "category": "same",
+      "sha256": "241be4b34a640892260152bb4bd05720f420ae886da363fc839b0dc6786c6121"
+    },
+    {
+      "path": "labs/ten_design_systems.py",
+      "category": "same",
+      "sha256": "64cabff331fa6efdcfc02d9733877ff2000dd5f8d9c9333d71bd0d0efc75becd"
+    },
+    {
+      "path": "labs/what_a_background_is_for.py",
+      "category": "same",
+      "sha256": "7f4e501d9a73bfa8114bd610c512e619fc44b3ae0c4ba730a107cbd850f85387"
+    },
+    {
+      "path": "make_diagrams.py",
+      "category": "same",
+      "sha256": "028754f7583984422c98f649a828233ad6ae9e4958dddb278927a9a20e81645a"
+    }
+  ]
+}

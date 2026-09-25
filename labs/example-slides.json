@@ -1,0 +1,96 @@
+{
+  "id": "example-01",
+  "goal": "An example set of slides, so the comparison sheet has something to render. Replace the titles and lines below with your own and run it again.",
+  "slides": [
+    {
+      "n": "1",
+      "role": "cover",
+      "title": "Four checks before anything is sent",
+      "kicker": "Swipe for what each one refuses.",
+      "idx": "Check 1",
+      "does": "Swipe for what each one refuses.",
+      "got": "<b>What it refuses</b> rather than what it warns about."
+    },
+    {
+      "n": "2",
+      "role": "credibility",
+      "title": "Every check was written after a failure",
+      "does": "Not one was designed in advance. Each arrived the day after something went out broken.",
+      "idx": "Check 2",
+      "kicker": "Not one was designed in advance. Each arrived the day after something went out broken.",
+      "got": "<b>What it refuses</b> rather than what it warns about."
+    },
+    {
+      "n": "3",
+      "role": "item",
+      "title": "Every address is fetched before sending",
+      "does": "It confirms the link is intact and that what it points at is actually there.",
+      "idx": "Check 3",
+      "kicker": "It confirms the link is intact and that what it points at is actually there.",
+      "got": "<b>What it refuses</b> rather than what it warns about."
+    },
+    {
+      "n": "4",
+      "role": "item",
+      "title": "Nothing may run past the bottom of a page",
+      "does": "A fixed page deletes what overflows rather than moving it, and says nothing.",
+      "idx": "Check 4",
+      "kicker": "A fixed page deletes what overflows rather than moving it, and says nothing.",
+      "got": "<b>What it refuses</b> rather than what it warns about."
+    },
+    {
+      "n": "5",
+      "role": "item",
+      "title": "The printed commands must match the code",
+      "does": "So the instruction on the page is the instruction that actually exists.",
+      "idx": "Check 5",
+      "kicker": "So the instruction on the page is the instruction that actually exists.",
+      "got": "<b>What it refuses</b> rather than what it warns about."
+    },
+    {
+      "n": "6",
+      "role": "item",
+      "title": "Copy what the reader copies, and run it as them",
+      "does": "Three answers, never two: safe to send, do not send, or not proven.",
+      "idx": "Check 6",
+      "kicker": "Three answers, never two: safe to send, do not send, or not proven.",
+      "got": "<b>What it refuses</b> rather than what it warns about."
+    },
+    {
+      "n": "7",
+      "role": "item",
+      "title": "Read the finished page, not the file",
+      "does": "A check that reads the source reports faults nobody can see.",
+      "idx": "Check 7",
+      "kicker": "A check that reads the source reports faults nobody can see.",
+      "got": "<b>What it refuses</b> rather than what it warns about."
+    },
+    {
+      "n": "8",
+      "role": "turn",
+      "title": "A warning gets skimmed",
+      "does": "A refusal cannot be talked round, which is why six of these refuse.",
+      "idx": "Check 8",
+      "kicker": "A refusal cannot be talked round, which is why six of these refuse.",
+      "got": "<b>What it refuses</b> rather than what it warns about."
+    },
+    {
+      "n": "9",
+      "role": "proof",
+      "title": "Twenty of fifty five rules are only remembered",
+      "does": "Four of the programs exist because a written instruction was ignored.",
+      "idx": "Check 9",
+      "kicker": "Four of the programs exist because a written instruction was ignored.",
+      "got": "<b>What it refuses</b> rather than what it warns about."
+    },
+    {
+      "n": "10",
+      "role": "cta",
+      "title": "Write the check the day it breaks",
+      "kicker": "Not the week after, when the detail has gone.",
+      "idx": "Check 10",
+      "does": "Not the week after, when the detail has gone.",
+      "got": "<b>What it refuses</b> rather than what it warns about."
+    }
+  ]
+}
